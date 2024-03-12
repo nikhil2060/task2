@@ -1,0 +1,256 @@
+{
+  "january": [
+    {
+      "date": "January 3, 2024 Wednesday",
+      "muhurat_timing": "Morning: 07:45 AM - 10:17 AM"
+    },
+    {
+      "date": "January 12, 2024 Friday",
+      "muhurat_timing": "Evening: 06:20 PM - Night: 10:57 PM"
+    },
+    {
+      "date": "January 15, 2024 Monday",
+      "muhurat_timing": "Morning: 07:46 AM - 09:30 AM"
+    },
+    {
+      "date": "January 17, 2024 Wednesday",
+      "muhurat_timing": "Morning: 07:46 AM - Afternoon: 12:15 PM"
+    },
+    {
+      "date": "January 25, 2024 Thursday",
+      "muhurat_timing": "Afternoon: 01:19 PM - Evening: 07:49 PM"
+    }
+  ],
+  "february": [
+    {
+      "date": "February 2, 2024 Friday",
+      "muhurat_timing": "Morning: 07:40 AM - 09:47 AM"
+    },
+    {
+      "date": "February 8, 2024 Thursday",
+      "muhurat_timing": "Morning: 07:56 AM - Afternoon: 12:24 PM"
+    },
+    {
+      "date": "February 12, 2024 Monday",
+      "muhurat_timing": "Evening: 04:18 PM - Evening: 06:38 PM"
+    },
+    {
+      "date": "February 14, 2024 Wednesday",
+      "muhurat_timing": "Morning: 07:32 AM - 10:25 AM"
+    },
+    {
+      "date": "February 19, 2024 Monday",
+      "muhurat_timing": "Morning: 07:28 AM - 08:40 AM"
+    },
+    {
+      "date": "February 21, 2024 Wednesday",
+      "muhurat_timing": "Afternoon: 01:28 PM - Evening: 06:03 PM"
+    }
+  ],
+  "March": [
+    {
+      "date": "March 8, 2024 Friday",
+      "muhurat_timing": "Morning: 07:29 AM - Afternoon: 12:25 PM"
+    },
+    {
+      "date": "March 11, 2024 Monday",
+      "muhurat_timing": "Afternoon: 12:13 PM - Evening: 04:48 PM"
+    },
+    {
+      "date": "March 27, 2024 Wednesday",
+      "muhurat_timing": "Morning: 07:40 AM - Afternoon: 01:25 PM"
+    }
+  ],
+  "April": [
+    {
+      "date": "April 15, 2024 Monday",
+      "muhurat_timing": "Morning: 06:26 AM to 12:10 PM"
+    },
+    {
+      "date": "April 26, 2024 Friday",
+      "muhurat_timing": "Morning: 07:17 AM to 01:47 PM"
+    }
+  ],
+  "May": [
+    {
+      "date": "May 3, 2024 Friday",
+      "muhurat_timing": "Morning: 06:49 AM to 11:00 AM"
+    },
+    {
+      "date": "May 6, 2024 Monday",
+      "muhurat_timing": "Morning: 06:38 AM to 01:08 PM"
+    },
+    {
+      "date": "May 9, 2024 Thursday",
+      "muhurat_timing": "Afternoon: 12:56 PM to Evening: 05:30 PM"
+    },
+    {
+      "date": "May 20, 2024 Monday",
+      "muhurat_timing": "Night: 09:25 PM to 11:29 PM"
+    },
+    {
+      "date": "May 23, 2024 Thursday",
+      "muhurat_timing": "Afternoon: 02:19 PM to Night: 09:13 PM"
+    },
+    {
+      "date": "May 27, 2024 Monday",
+      "muhurat_timing": "Evening: 06:39 PM to Night: 11:01 PM"
+    },
+    {
+      "date": "May 30, 2024 Thursday",
+      "muhurat_timing": "Morning: 59 AM to 09:13 AM"
+    }
+  ],
+  "June": [
+    {
+      "date": "June 10, 2024 Monday",
+      "muhurat_timing": "5:44 PM to 8:02 PM"
+    },
+    {
+      "date": "June 19, 2024 Wednesday",
+      "muhurat_timing": "9:31 PM to 11:13 PM"
+    },
+    {
+      "date": "June 20, 2024 Thursday",
+      "muhurat_timing": "5:55 AM to 10:11 AM"
+    },
+    {
+      "date": "June 24, 2024 Monday",
+      "muhurat_timing": "7:35 AM to 2:29 PM"
+    },
+    {
+      "date": "June 26, 2024 Wednesday",
+      "muhurat_timing": "9:48 AM to 4:41 PM"
+    }
+  ],
+  "August": [
+    {
+      "date": "August 2, 2024, Friday",
+      "muhurat_timing": "From 11:56 AM to 2:15 PM"
+    },
+    {
+      "date": "August 7, 2024, Wednesday",
+      "muhurat_timing": "From 9:28 PM to 10:36 PM"
+    },
+    {
+      "date": "August 9, 2024, Friday",
+      "muhurat_timing": "From 6:55 AM to 11:28 AM"
+    },
+    {
+      "date": "August 12, 2024, Monday",
+      "muhurat_timing": "From 6:43 AM to 9:00 AM"
+    },
+    {
+      "date": "August 14, 2024, Wednesday",
+      "muhurat_timing": "From 11:09 AM to 1:28 PM"
+    },
+    {
+      "date": "August 19, 2024, Monday",
+      "muhurat_timing": "From 3:27 PM to 7:13 PM"
+    },
+    {
+      "date": "August 23, 2024, Friday",
+      "muhurat_timing": "From 12:53 PM to 3:11 PM"
+    },
+    {
+      "date": "August 28, 2024, Wednesday",
+      "muhurat_timing": "From 6:28 AM to 12:33 PM"
+    }
+  ],
+  "September": [
+    {
+      "date": "September 4, 2024, Wednesday",
+      "muhurat_timing": "From 12:05 PM to 6:10 PM"
+    },
+    {
+      "date": "September 5, 2024, Thursday",
+      "muhurat_timing": "From 7:26 AM to 9:42 AM"
+    },
+    {
+      "date": "September 6, 2024, Friday",
+      "muhurat_timing": "From 7:22 AM to 9:38 AM"
+    },
+    {
+      "date": "September 16, 2024, Monday",
+      "muhurat_timing": "From 6:42 AM to 11:18 AM"
+    }
+  ],
+  "October": [
+    {
+      "date": "October 4, 2024, Friday",
+      "muhurat_timing": "From 6:47 AM to 10:08 AM"
+    },
+    {
+      "date": "October 7, 2024, Monday",
+      "muhurat_timing": "From 2:18 PM to 6:53 PM"
+    },
+    {
+      "date": "October 17, 2024, Thursday",
+      "muhurat_timing": "From 7:18 AM to 11:35 AM"
+    },
+    {
+      "date": "October 21, 2024, Monday",
+      "muhurat_timing": "From 9:01 PM to 3:05 PM"
+    },
+    {
+      "date": "October 23, 2024, Wednesday",
+      "muhurat_timing": "From 2:58 PM to 4:25 PM"
+    },
+    {
+      "date": "October 30, 2024, Wednesday",
+      "muhurat_timing": "From 8:25 AM to 2:30 PM"
+    }
+  ],
+  "November": [
+    {
+      "date": "November 4, 2024, Monday",
+      "muhurat_timing": "From 7:07 AM to 10:24 AM"
+    },
+    {
+      "date": "November 8, 2024, Friday",
+      "muhurat_timing": "From 7:50 AM to 1:55 PM"
+    },
+    {
+      "date": "November 11, 2024, Monday",
+      "muhurat_timing": "From 9:57 AM to 12:xx PM"
+    },
+    {
+      "date": "November 13, 2024, Wednesday",
+      "muhurat_timing": "From 1:35 PM to 4:27 PM"
+    },
+    {
+      "date": "November 14, 2024, Thursday",
+      "muhurat_timing": "From 7:26 AM to 11:49 AM"
+    },
+    {
+      "date": "November 20, 2024, Wednesday",
+      "muhurat_timing": "From 11:25 AM to 4:00 PM"
+    },
+    {
+      "date": "November 25, 2024, Monday",
+      "muhurat_timing": "From 7:23 AM to 12:48 PM"
+    },
+    {
+      "date": "November 28, 2024, Thursday",
+      "muhurat_timing": "From 8:50 AM to 2:04 PM"
+    },
+    {
+      "date": "November 29, 2024, Friday",
+      "muhurat_timing": "From 8:46 AM to 10:50 AM"
+    }
+  ],
+  "December": [
+    {
+      "date": "December 5, 2024, Thursday",
+      "muhurat_timing": "From 1:36 PM to 6:32 PM"
+    },
+    {
+      "date": "December 6, 2024, Friday",
+      "muhurat_timing": "From 7:32 AM to 12:05 PM"
+    },
+    {
+      "date": "December 25, 2024, Wednesday",
+      "muhurat_timing": "From 7:43 AM to 10:50 AM"
+    }
+  ]
+}
