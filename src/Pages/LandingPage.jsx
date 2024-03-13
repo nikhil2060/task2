@@ -48,7 +48,7 @@ const StyledLanding = styled.div`
 
 const StyledContainer = styled.div`
   width: 30%;
-  height: 50%;
+  height: 400px;
   background-color: #fff;
   display: flex;
   justify-content: center;
@@ -57,6 +57,7 @@ const StyledContainer = styled.div`
   padding: 2rem;
   box-shadow: 0px 0px 10px #55555572;
   border-radius: 10px;
+  min-width: 300px;
 `;
 
 const StyledItem = styled.div`
