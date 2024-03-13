@@ -115,7 +115,7 @@ for more updates, tips, and exclusive offers that will make your Gold Buying Muh
             most propitious days to buy gold in the year 2024:
           </p>
 
-          <ul className="pl-10 list-disc leading-10 lg:text-[1rem] md:text-[0.8rem] sm:text-[0.8rem]">
+          <ul className="pl-10 list-disc leading-10 text-[1rem]">
             <li>Pushya Nakshatra 2024</li>
             <li>Makar Sankranti - 15 January 2024</li>
             <li>Ugadi or Gudi Padwa - 09 April 2024</li>

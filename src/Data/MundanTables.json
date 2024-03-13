@@ -1,0 +1,144 @@
+{
+  "February": [
+    {
+      "Date": "Wednesday, February 14",
+      "Time": "10:43 AM - 12:10 PM",
+      "Nakshatra": "Ashwini"
+    },
+    {
+      "Date": "Monday, February 19",
+      "Time": "06:33 AM - 10:33 AM",
+      "Nakshatra": "Mrigashirsha"
+    },
+    {
+      "Date": "Wednesday, February 21",
+      "Time": "11:28 AM - 01:22 PM",
+      "Nakshatra": "Punarvasu"
+    },
+    {
+      "Date": "Tuesday, February 27",
+      "Time": "04:30 AM - 06:29 AM",
+      "Nakshatra": "Hasta"
+    },
+    {
+      "Date": "Thursday, February 29",
+      "Time": "04:19 AM - 06:22 AM",
+      "Nakshatra": "Chitra"
+    }
+  ],
+  "March": [
+    {
+      "Date": "Friday, March 8",
+      "Time": "01:20 AM - 09:58 PM",
+      "Nakshatra": "Shravana"
+    },
+    {
+      "Date": "Monday, March 18",
+      "Time": "10:49 PM - 06:17 AM",
+      "Nakshatra": "Punarvasu"
+    },
+    {
+      "Date": "Wednesday, March 20",
+      "Time": "06:16 AM - 01:19 PM",
+      "Nakshatra": "Pushya"
+    },
+    {
+      "Date": "Wednesday, March 27",
+      "Time": "06:11 AM - 06:05 AM",
+      "Nakshatra": "Chitra"
+    }
+  ],
+  "April": [
+    {
+      "Date": "Wednesday, April 3",
+      "Time": "09:47 PM - 05:26 AM",
+      "Nakshatra": "Shravana"
+    },
+    {
+      "Date": "Thursday, April 4",
+      "Time": "04:14 PM - 01:29 PM",
+      "Nakshatra": "Shravana"
+    },
+    {
+      "Date": "Monday, April 15",
+      "Time": "05:59 AM - 12:12 PM",
+      "Nakshatra": "Punarvasu"
+    }
+  ],
+  "May": [
+    {
+      "Date": "Friday, May 3",
+      "Time": "01:53 AM - 12:41 PM",
+      "Nakshatra": "Shatabhisha"
+    },
+    {
+      "Date": "Friday, May 3",
+      "Time": "11:24 PM - 12:06 AM",
+      "Nakshatra": "Shatabhisha"
+    },
+    {
+      "Date": "Friday, May 10",
+      "Time": "10:47 AM - 02:50 AM",
+      "Nakshatra": "Mrigashirsha"
+    },
+    {
+      "Date": "Tuesday, May 14",
+      "Time": "02:50 AM - 05:47 AM",
+      "Nakshatra": "Pushya"
+    },
+    {
+      "Date": "Monday, May 20",
+      "Time": "03:59 PM - 05:45 AM",
+      "Nakshatra": "Chitra"
+    },
+    {
+      "Date": "Friday, May 24",
+      "Time": "07:25 PM - 05:45 AM",
+      "Nakshatra": "Jyeshta"
+    }
+  ],
+  "June": [
+    {
+      "Date": "Friday, June 7",
+      "Time": "04:45 PM - 07:43 PM",
+      "Nakshatra": "Mrigashirsha"
+    },
+    {
+      "Date": "Monday, June 10",
+      "Time": "04:15 PM - 09:39 PM",
+      "Nakshatra": "Pushya"
+    },
+    {
+      "Date": "Monday, June 17",
+      "Time": "05:46 AM - 05:39 PM",
+      "Nakshatra": "Chitra"
+    },
+    {
+      "Date": "Wednesday, June 26",
+      "Time": "05:48 AM - 08:55 PM",
+      "Nakshatra": "Dhanishta"
+    }
+  ],
+  "July": [
+    {
+      "Date": "Thursday, Jul 4",
+      "Time": "04:07 AM - 05:54 AM",
+      "Nakshatra": "Mrigashirsha"
+    },
+    {
+      "Date": "Monday, Jul 8",
+      "Time": "05:51 AM - 06:02 AM",
+      "Nakshatra": "Pushya"
+    },
+    {
+      "Date": "Friday, Jul 12",
+      "Time": "04:08 PM - 05:53 AM",
+      "Nakshatra": "Hasta"
+    },
+    {
+      "Date": "Monday, Jul 15",
+      "Time": "07:19 PM - 12:29 AM",
+      "Nakshatra": "Swati"
+    }
+  ]
+}

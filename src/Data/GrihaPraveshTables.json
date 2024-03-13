@@ -1,0 +1,154 @@
+{
+  "January": [
+    {
+      "Date": "Jan 3, 2024",
+      "Time": "7:14 AM To 2:46 PM",
+      "Nakshatra": "Uttara Phalguni"
+    }
+  ],
+  "February": [
+    {
+      "Date": "Feb 12, 2024",
+      "Time": "2:56 PM TO 5:44 PM",
+      "Nakshatra": "Uttara Bhadrapada"
+    },
+    {
+      "Date": "Feb 14, 2024",
+      "Time": "7:01 AM TO 10:43 AM",
+      "Nakshatra": "Revati"
+    },
+    {
+      "Date": "Feb 19, 2024",
+      "Time": "6:57 AM TO 10:33 AM",
+      "Nakshatra": "Mrigashirsha"
+    },
+    {
+      "Date": "Feb 26, 2024",
+      "Time": "6:50 AM TO 4:30 AM",
+      "Nakshatra": "Uttara Phalguni"
+    },
+    {
+      "Date": "Feb 28, 2024",
+      "Time": "4:18 AM TO 6:47 AM",
+      "Nakshatra": "Chitra"
+    },
+    {
+      "Date": "Feb 29, 2024",
+      "Time": "6:47 AM TO 10:22 AM",
+      "Nakshatra": "Chitra"
+    }
+  ],
+  "March": [
+    {
+      "Date": "March 2, 2024",
+      "Time": "2:42 PM TO 6:44 AM",
+      "Nakshatra": "Anuradha"
+    },
+    {
+      "Date": "March 6, 2024",
+      "Time": "2:52 PM TO 4:13 AM",
+      "Nakshatra": "Uttara Ashadha"
+    },
+    {
+      "Date": "March 11, 2024",
+      "Time": "10:44 AM TO 6:34 AM",
+      "Nakshatra": "Uttara Bhadrapada, Revati"
+    },
+    {
+      "Date": "March 15, 2024",
+      "Time": "10:09 PM TO 6:39 AM",
+      "Nakshatra": "Rohini"
+    },
+    {
+      "Date": "March 16, 2024",
+      "Time": "6:29 AM TO 9:38 PM",
+      "Nakshatra": "Rohini, Mrigashirsha"
+    },
+    {
+      "Date": "March 27, 2024",
+      "Time": "6:17 AM TO 4:16 PM",
+      "Nakshatra": "Chitra"
+    },
+    {
+      "Date": "March 29, 2024",
+      "Time": "8:36 PM TO 6:13 AM",
+      "Nakshatra": "Anuradha"
+    },
+    {
+      "Date": "March 30, 2024",
+      "Time": "6:13 AM TO 9:13 AM",
+      "Nakshatra": "Anuradha"
+    }
+  ],
+  "April": [
+    {
+      "Date": "April 3, 2024",
+      "Time": "6:29 PM TO 9:47 PM",
+      "Nakshatra": "Uttara Ashadha"
+    }
+  ],
+  "November": [
+    {
+      "Date": "November 2, 2024",
+      "Time": "5:58 AM TO 6:35 AM",
+      "Nakshatra": "Anuradha, Vishakha"
+    },
+    {
+      "Date": "November 4, 2024",
+      "Time": "6:35 AM TO 8:04 AM",
+      "Nakshatra": "Anuradha"
+    },
+    {
+      "Date": "November 7, 2024",
+      "Time": "12:34 AM TO 6:38 AM",
+      "Nakshatra": "Uttara Ashadha"
+    },
+    {
+      "Date": "November 8, 2024",
+      "Time": "6:38 AM TO 12:03 PM",
+      "Nakshatra": "Uttara Ashadha"
+    },
+    {
+      "Date": "November 13, 2024",
+      "Time": "1:01 PM TO 3:11 AM",
+      "Nakshatra": "Revati"
+    },
+    {
+      "Date": "November 16, 2024",
+      "Time": "7:28 PM TO 6:45 AM",
+      "Nakshatra": "Rohini"
+    },
+    {
+      "Date": "November 18, 2024",
+      "Time": "6:46 AM TO 3:49 PM",
+      "Nakshatra": "Mrigashirsha"
+    },
+    {
+      "Date": "November 25, 2024",
+      "Time": "6:52 AM TO 1:24 AM",
+      "Nakshatra": "Uttara Phalguni"
+    }
+  ],
+  "December": [
+    {
+      "Date": "December 5, 2024",
+      "Time": "12:40 PM TO 5:26 PM",
+      "Nakshatra": "Panchami"
+    },
+    {
+      "Date": "December 11, 2024",
+      "Time": "7:04 AM TO 11:48 AM",
+      "Nakshatra": "Revati"
+    },
+    {
+      "Date": "December 21, 2024",
+      "Time": "6:14 AM TO 7:10 AM",
+      "Nakshatra": "Uttara Phalguni, Poorva Phalguni"
+    },
+    {
+      "Date": "December 25, 2024",
+      "Time": "7:12 AM TO 3:22 PM",
+      "Nakshatra": "Chitra"
+    }
+  ]
+}
