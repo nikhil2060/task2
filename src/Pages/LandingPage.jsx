@@ -69,6 +69,7 @@ const StyledItem = styled.div`
   justify-content: center;
   align-items: center;
   box-shadow: 0px 0px 10px #55555524;
+  cursor: pointer;
 `;
 
 export default LandingPage;
