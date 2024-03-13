@@ -1,0 +1,365 @@
+{
+  "January": [
+    {
+      "date": "16 January 2024, Tuesday",
+      "muhurat_timing": "20:01 to 17 Jan 07:15",
+      "nakshatra": "Uttara-Bhadrapada, Revati",
+      "tithi": "Shashthi, Saptami"
+    },
+    {
+      "date": "17 January 2023, Wednesday",
+      "muhurat_timing": "07:15 to 21:50",
+      "nakshatra": "Revati",
+      "tithi": "Saptami"
+    },
+    {
+      "date": "20 January 2024, Saturday",
+      "muhurat_timing": "03:09 to 21 Jan 07:14",
+      "nakshatra": "Rohini",
+      "tithi": "Ekadashi"
+    },
+    {
+      "date": "21 January 2024, Sunday",
+      "muhurat_timing": "07:14 to 07:23",
+      "nakshatra": "Rohini",
+      "tithi": "Ekadashi"
+    },
+    {
+      "date": "22 January 2024, Monday",
+      "muhurat_timing": "07:14 to 23 Jan 04:58",
+      "nakshatra": "Mrigashira",
+      "tithi": "Dwadashi, Trayodashi"
+    },
+    {
+      "date": "27 January 2024, Saturday",
+      "muhurat_timing": "19:44 to 28 Jan 07: 12",
+      "nakshatra": "Magha",
+      "tithi": "Dwitiya, Purnima"
+    },
+    {
+      "date": "28 January 2024, Sunday",
+      "muhurat_timing": "07:12 to 15:53",
+      "nakshatra": "Magha",
+      "tithi": "Dwitiya, Tritiya"
+    },
+    {
+      "date": "30 January 2024, Tuesday",
+      "muhurat_timing": "10:43 to 31 Jan 07:10",
+      "nakshatra": "Uttara Phalguni, Hasta",
+      "tithi": "Tritiya"
+    },
+    {
+      "date": "31 January 2024, Wednesday",
+      "muhurat_timing": "07:10 to 1 Feb 01:08",
+      "nakshatra": "Hasta",
+      "tithi": "Hasta Panchami"
+    }
+  ],
+  "February": [
+    {
+      "date": "4 February 2024, Sunday",
+      "muhurat_timing": "07:21 to 05 Feb 05:44",
+      "nakshatra": "Anuradha",
+      "tithi": "Navami, Dashami"
+    },
+    {
+      "date": "6 February 2024, Tuesday",
+      "muhurat_timing": "13:18 to 07 Feb 06:27",
+      "nakshatra": "Mool",
+      "tithi": "Ekadashi, Dwadashi"
+    },
+    {
+      "date": "7 February 2024, Wednesday",
+      "muhurat_timing": "04:37 to 08 Feb 07:05",
+      "nakshatra": "Uttarashada",
+      "tithi": "Trayodashi"
+    },
+    {
+      "date": "8 February 2024, Thursday",
+      "muhurat_timing": "07:05 to 11:17",
+      "nakshatra": "Uttarashada",
+      "tithi": "Trayodashi"
+    },
+    {
+      "date": "12 February 2024, Monday",
+      "muhurat_timing": "14:56 to 13 Feb 07:02",
+      "nakshatra": "Uttara Bhadrapada",
+      "tithi": "Tritiya, Chaturthi"
+    },
+    {
+      "date": "13 February 2024, Tuesday",
+      "muhurat_timing": "14:41 to 14 Feb 05:11",
+      "nakshatra": "Revati",
+      "tithi": "Panchami"
+    },
+    {
+      "date": "17 February 2024, Saturday",
+      "muhurat_timing": "08:46 to 13:44",
+      "nakshatra": "Rohini",
+      "tithi": "Navami"
+    },
+    {
+      "date": "24 February 2024, Saturday",
+      "muhurat_timing": "13:35 to 22 Feb 22:20",
+      "nakshatra": "Magha",
+      "tithi": "Purnima, Pratipada"
+    },
+    {
+      "date": "25 February 2024, Sunday",
+      "muhurat_timing": "01:24 to 26 Feb 06:50",
+      "nakshatra": "Uttara Phalguni",
+      "tithi": "Dwitiya"
+    },
+    {
+      "date": "26 February 2024, Monday",
+      "muhurat_timing": "06:50 to 15:27",
+      "nakshatra": "Uttara Phalguni",
+      "tithi": "Dwitiya"
+    },
+    {
+      "date": "29 February 2024, Thursday",
+      "muhurat_timing": "10:22 to 01 Mar 06:46",
+      "nakshatra": "Swati",
+      "tithi": "Panchami"
+    }
+  ],
+  "March": [
+    {
+      "date": "1 March 2024, Friday",
+      "muhurat_timing": "06:46 to 12:48",
+      "nakshatra": "Swati",
+      "tithi": "Shashthi"
+    },
+    {
+      "date": "2 March 2024, Saturday",
+      "muhurat_timing": "20:24 to 03 Mar 06:44",
+      "nakshatra": "Anuradha",
+      "tithi": "Saptami"
+    },
+    {
+      "date": "3 March 2024, Sunday",
+      "muhurat_timing": "06:44 to 15:55",
+      "nakshatra": "Anuradha",
+      "tithi": "Saptami, Ashtami"
+    },
+    {
+      "date": "4 March 2024, Monday",
+      "muhurat_timing": "22:16 to 05 Mar 06:42",
+      "nakshatra": "Mool",
+      "tithi": "Navami"
+    },
+    {
+      "date": "5 March 2024, Tuesday",
+      "muhurat_timing": "06:42 to 14:09",
+      "nakshatra": "Mool",
+      "tithi": "Navami, Dashami"
+    },
+    {
+      "date": "6 March 2024, Wednesday",
+      "muhurat_timing": "14:52 to 07 Mar 06:40",
+      "nakshatra": "Uttarashada",
+      "tithi": "Ekadashi, Dwadashi"
+    },
+    {
+      "date": "7 March 2024, Thursday",
+      "muhurat_timing": "06:40 to 08:24",
+      "nakshatra": "Uttarashada",
+      "tithi": "Dwadashi"
+    },
+    {
+      "date": "10 March 2024, Sunday",
+      "muhurat_timing": "01:55 to 11 Mar 06:35",
+      "nakshatra": "Uttarashada",
+      "tithi": "Pratipada"
+    },
+    {
+      "date": "11 March 2024, Monday",
+      "muhurat_timing": "06:35 to 12 Mar 06:34",
+      "nakshatra": "Uttara Bhadrapada, Revati",
+      "tithi": "Pratipada, Dwitiya"
+    },
+    {
+      "date": "12 March 2024, Tuesday",
+      "muhurat_timing": "06:34 to 15:08",
+      "nakshatra": "Revati",
+      "tithi": "Tritiya"
+    }
+  ],
+  "April": [
+    {
+      "date": "18 April 2024, Thursday",
+      "muhurat_timing": "00:44 to 19 Apr 05:51",
+      "nakshatra": "Magha",
+      "tithi": "Ekadashi"
+    },
+    {
+      "date": "19 April 2024, Friday",
+      "muhurat_timing": "05:51 to 06:46",
+      "nakshatra": "Magha",
+      "tithi": "Ekadashi"
+    },
+    {
+      "date": "20 April 2024, Saturday",
+      "muhurat_timing": "14:04 to 21 Apr 02:48",
+      "nakshatra": "Uttara Phalguni",
+      "tithi": "Dwadashi, Trayodashi"
+    },
+    {
+      "date": "21 April 2024, Sunday",
+      "muhurat_timing": "03:45 to 22 Apr 05:48",
+      "nakshatra": "Hasta",
+      "tithi": "Chaturdashi"
+    },
+    {
+      "date": "22 April 2024, Monday",
+      "muhurat_timing": "05:48 to 20:00",
+      "nakshatra": "Hasta",
+      "tithi": "Chaturdashi"
+    }
+  ],
+  "July": [
+    {
+      "date": "9 July 2024, Tuesday",
+      "muhurat_timing": "14:28 to 18:56",
+      "nakshatra": "Magha",
+      "tithi": "Chaturthi"
+    },
+    {
+      "date": "11 July 2024, Thursday",
+      "muhurat_timing": "13:04 to 12 Jul 04:09",
+      "nakshatra": "Uttara Phalguni",
+      "tithi": "Shashthi"
+    },
+    {
+      "date": "12 July 2024, Friday",
+      "muhurat_timing": "05:15 to 13 Jul 05:32",
+      "nakshatra": "Hasta",
+      "tithi": "Saptami"
+    },
+    {
+      "date": "13 July 2024, Saturday",
+      "muhurat_timing": "05:32 to 15:05",
+      "nakshatra": "Hasta",
+      "tithi": "Saptami"
+    },
+    {
+      "date": "14 July 2024, Sunday",
+      "muhurat_timing": "22:06 to 15 Jul 05:33",
+      "nakshatra": "Swati",
+      "tithi": "Navami"
+    },
+    {
+      "date": "15 July 2024, Monday",
+      "muhurat_timing": "05:33 to 16 Jul 00:30",
+      "nakshatra": "Swati",
+      "tithi": "Navami, Dashami"
+    }
+  ],
+
+  "November": [
+    {
+      "date": "12 November 2024, Tuesday",
+      "muhurat_timing": "16:04 to 19:10",
+      "nakshatra": "Uttar Bhadrapada",
+      "tithi": "Dwadashi"
+    },
+    {
+      "date": "13 November 2024, Wednesday",
+      "muhurat_timing": "15:26 to 21:48",
+      "nakshatra": "Revati",
+      "tithi": "Trayodashi"
+    },
+    {
+      "date": "16 November 2024, Saturday",
+      "muhurat_timing": "23:48 to 17 Nov 06:45",
+      "nakshatra": "Rohini",
+      "tithi": "Dwitiya"
+    },
+    {
+      "date": "17 November 2024, Sunday",
+      "muhurat_timing": "06:45 to 18 Nov 06:46",
+      "nakshatra": "Rohini, Mrigashira",
+      "tithi": "Dwitiya, Tritiya"
+    },
+    {
+      "date": "18 November 2024, Monday",
+      "muhurat_timing": "06:46 to 07:56",
+      "nakshatra": "Mrigashira",
+      "tithi": "Tritiya"
+    },
+    {
+      "date": "22 November 2024, Friday",
+      "muhurat_timing": "23:44 to 23 Nov 06:50",
+      "nakshatra": "Magha",
+      "tithi": "Ashtami"
+    },
+    {
+      "date": "23 November 2024, Saturday",
+      "muhurat_timing": "06:50 to 11:42",
+      "nakshatra": "Magha",
+      "tithi": "Ashtami"
+    },
+    {
+      "date": "25 November 2024, Monday",
+      "muhurat_timing": "01:01 to 26 Nov 06:53",
+      "nakshatra": "Hasta",
+      "tithi": "Ekadashi"
+    },
+    {
+      "date": "26 November 2024, Tuesday",
+      "muhurat_timing": "06:53 to 27 Nov 04:35",
+      "nakshatra": "Hasta",
+      "tithi": "Ekadashi"
+    },
+    {
+      "date": "28 November 2024, Thursday",
+      "muhurat_timing": "07:36 to 29 Nov 06:55",
+      "nakshatra": "Swati",
+      "tithi": "Trayodashi"
+    },
+    {
+      "date": "29 November 2024, Friday",
+      "muhurat_timing": "06:55 to 08:39",
+      "nakshatra": "Swati",
+      "tithi": "Trayodashi"
+    }
+  ],
+  "December": [
+    {
+      "date": "4 December 2024, Wednesday",
+      "muhurat_timing": "17:15 to 05 Dec 01:02",
+      "nakshatra": "Uttarashada",
+      "tithi": "Chaturthi"
+    },
+    {
+      "date": "5 December 2024, Thursday",
+      "muhurat_timing": "12:49 to 17:26",
+      "nakshatra": "Uttarashada",
+      "tithi": "Panchami"
+    },
+    {
+      "date": "9 December 2024, Monday",
+      "muhurat_timing": "14:56 to 10 Dec 01:06",
+      "nakshatra": "Uttar Bhadrapada",
+      "tithi": "Navami"
+    },
+    {
+      "date": "10 December 2024, Tuesday",
+      "muhurat_timing": "22:03 to 11 Dec 06:13",
+      "nakshatra": "Revati",
+      "tithi": "Dashami, Ekadashi"
+    },
+    {
+      "date": "14 December 2024, Saturday",
+      "muhurat_timing": "07:06 to 16:58",
+      "nakshatra": "Mrigashira",
+      "tithi": "Purnima"
+    },
+    {
+      "date": "15 December 2024, Sunday",
+      "muhurat_timing": "03:42 to 07:06",
+      "nakshatra": "Mrigashira",
+      "tithi": "Purnima"
+    }
+  ]
+}

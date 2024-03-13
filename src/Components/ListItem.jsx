@@ -3,8 +3,8 @@ import React from "react";
 
 function ListItem({ heading, content }) {
   return (
-    <li>
-      <span className="font-bold">{heading}: </span>
+    <li className="text-[1rem]">
+      <span className="font-bold text-[1rem]">{heading}: </span>
       {content}
     </li>
   );

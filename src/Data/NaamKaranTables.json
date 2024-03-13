@@ -1,0 +1,695 @@
+{
+  "January": [
+    {
+      "date": "Wednesday, January 03",
+      "start_time": "07:14:25",
+      "end_time": "31:14:24"
+    },
+    {
+      "date": "Thursday, January 04",
+      "start_time": "07:14:37",
+      "end_time": "22:07:18"
+    },
+    {
+      "date": "Sunday, January 07",
+      "start_time": "22:08:43",
+      "end_time": "31:15:05"
+    },
+    {
+      "date": "Monday, January 08",
+      "start_time": "07:15:10",
+      "end_time": "22:03:36"
+    },
+    {
+      "date": "Thursday, January 11",
+      "start_time": "17:39:31",
+      "end_time": "31:15:20"
+    },
+    {
+      "date": "Friday, January 12",
+      "start_time": "07:15:19",
+      "end_time": "31:15:20"
+    },
+    {
+      "date": "Wednesday, January 17",
+      "start_time": "07:14:53",
+      "end_time": "31:14:54"
+    },
+    {
+      "date": "Thursday, January 18",
+      "start_time": "07:14:44",
+      "end_time": "20:46:54"
+    },
+    {
+      "date": "Sunday, January 21",
+      "start_time": "07:14:04",
+      "end_time": "31:14:04"
+    },
+    {
+      "date": "Monday, January 22",
+      "start_time": "07:13:48",
+      "end_time": "28:59:04"
+    },
+    {
+      "date": "Thursday, January 25",
+      "start_time": "08:17:31",
+      "end_time": "31:12:49"
+    },
+    {
+      "date": "Wednesday, January 31",
+      "start_time": "07:10:10",
+      "end_time": "31:10:11"
+    }
+  ],
+  "February": [
+    {
+      "date": "Thursday, 01 February",
+      "start_time": "07:09:40",
+      "end_time": "31:09:40"
+    },
+    {
+      "date": "Friday, 02 February",
+      "start_time": "07:09:06",
+      "end_time": "29:57:18"
+    },
+    {
+      "date": "Sunday, 04 February",
+      "start_time": "17:52:10",
+      "end_time": "31:07:57"
+    },
+    {
+      "date": "Thursday, 08 February",
+      "start_time": "07:05:20",
+      "end_time": "11:19:37"
+    },
+    {
+      "date": "Sunday, February 11",
+      "start_time": "07:03:11",
+      "end_time": "17:40:20"
+    },
+    {
+      "date": "Wednesday, February 14",
+      "start_time": "07:00:50",
+      "end_time": "31:00:51"
+    },
+    {
+      "date": "Sunday, February 18",
+      "start_time": "08:17:53",
+      "end_time": "30:57:28"
+    },
+    {
+      "date": "Wednesday, February 21",
+      "start_time": "14:18:35",
+      "end_time": "30:54:45"
+    },
+    {
+      "date": "Thursday, February 22",
+      "start_time": "06:53:49",
+      "end_time": "13:24:29"
+    },
+    {
+      "date": "Sunday, February 25",
+      "start_time": "25:25:26",
+      "end_time": "30:50:55"
+    },
+    {
+      "date": "Monday, February 26",
+      "start_time": "06:49:56",
+      "end_time": "30:49:56"
+    },
+    {
+      "date": "Thursday, February 29",
+      "start_time": "06:46:55",
+      "end_time": "30:46:55"
+    }
+  ],
+  "March": [
+    {
+      "date": "Friday, March 01",
+      "start_time": "06:45:52",
+      "end_time": "12:49:05"
+    },
+    {
+      "date": "Sunday, March 03",
+      "start_time": "06:43:46",
+      "end_time": "15:55:26"
+    },
+    {
+      "date": "Wednesday, March 06",
+      "start_time": "14:53:08",
+      "end_time": "30:40:32"
+    },
+    {
+      "date": "Thursday, March 07",
+      "start_time": "06:39:26",
+      "end_time": "30:39:26"
+    },
+    {
+      "date": "Friday, March 08",
+      "start_time": "06:38:20",
+      "end_time": "10:41:43"
+    },
+    {
+      "date": "Monday, March 11",
+      "start_time": "06:34:59",
+      "end_time": "30:34:59"
+    },
+    {
+      "date": "Friday, March 15",
+      "start_time": "16:08:56",
+      "end_time": "30:30:28"
+    },
+    {
+      "date": "Sunday, March 17",
+      "start_time": "06:28:09",
+      "end_time": "16:48:09"
+    },
+    {
+      "date": "Wednesday, March 20",
+      "start_time": "06:24:41",
+      "end_time": "22:39:07"
+    },
+    {
+      "date": "Sunday, March 24",
+      "start_time": "09:57:56",
+      "end_time": "30:20:02"
+    },
+    {
+      "date": "Monday, March 25",
+      "start_time": "06:18:53",
+      "end_time": "30:18:53"
+    },
+    {
+      "date": "Wednesday, March 27",
+      "start_time": "06:16:32",
+      "end_time": "30:16:32"
+    },
+    {
+      "date": "Thursday, March 28",
+      "start_time": "06:15:24",
+      "end_time": "18:38:36"
+    },
+    {
+      "date": "Friday, March 29",
+      "start_time": "20:36:15",
+      "end_time": "30:14:13"
+    }
+  ],
+  "April": [
+    {
+      "date": "Wednesday, 03 April",
+      "start_time": "18:32:19",
+      "end_time": "30:08:29"
+    },
+    {
+      "date": "Thursday, April 04",
+      "start_time": "06:07:21",
+      "end_time": "20:12:59"
+    },
+    {
+      "date": "Friday, April 05",
+      "start_time": "18:07:48",
+      "end_time": "30:06:12"
+    },
+    {
+      "date": "Friday, April 12",
+      "start_time": "13:13:57",
+      "end_time": "29:58:27"
+    },
+    {
+      "date": "Sunday, April 21",
+      "start_time": "05:49:10",
+      "end_time": "25:13:58"
+    },
+    {
+      "date": "Wednesday, April 24",
+      "start_time": "05:46:15",
+      "end_time": "24:41:02"
+    },
+    {
+      "date": "Friday, April 26",
+      "start_time": "05:44:24",
+      "end_time": "27:40:01"
+    }
+  ],
+  "May": [
+    {
+      "date": "Wednesday, May 01",
+      "start_time": "05:40:01",
+      "end_time": "27:11:38"
+    },
+    {
+      "date": "Friday, May 03",
+      "start_time": "05:38:21",
+      "end_time": "24:07:07"
+    },
+    {
+      "date": "Sunday, May 05",
+      "start_time": "05:36:47",
+      "end_time": "29:36:47"
+    },
+    {
+      "date": "Monday, 06 May",
+      "start_time": "05:36:01",
+      "end_time": "14:42:39"
+    },
+    {
+      "date": "Thursday, May 09",
+      "start_time": "11:56:11",
+      "end_time": "29:33:51"
+    },
+    {
+      "date": "Friday, May 10",
+      "start_time": "05:33:11",
+      "end_time": "26:52:24"
+    },
+    {
+      "date": "Monday, May 13",
+      "start_time": "11:24:25",
+      "end_time": "29:31:14"
+    },
+    {
+      "date": "Sunday, May 19",
+      "start_time": "05:27:55",
+      "end_time": "29:27:55"
+    },
+    {
+      "date": "Monday, May 20",
+      "start_time": "05:27:26",
+      "end_time": "29:27:26"
+    },
+    {
+      "date": "Thursday, May 23",
+      "start_time": "09:14:49",
+      "end_time": "29:26:08"
+    },
+    {
+      "date": "Friday, May 24",
+      "start_time": "05:25:45",
+      "end_time": "10:10:32"
+    },
+    {
+      "date": "Monday, May 27",
+      "start_time": "16:56:05",
+      "end_time": "29:24:26"
+    },
+    {
+      "date": "Thursday, May 30",
+      "start_time": "07:31:49",
+      "end_time": "29:23:08"
+    }
+  ],
+  "June": [
+    {
+      "date": "Monday, June 03",
+      "start_time": "05:23:05",
+      "end_time": "24:05:41"
+    },
+    {
+      "date": "Thursday, June 06",
+      "start_time": "18:09:36",
+      "end_time": "29:22:43"
+    },
+    {
+      "date": "Friday, June 07",
+      "start_time": "05:22:39",
+      "end_time": "19:43:45"
+    },
+    {
+      "date": "Monday, June 10",
+      "start_time": "16:17:22",
+      "end_time": "21:40:32"
+    },
+    {
+      "date": "Friday, June 14",
+      "start_time": "05:22:44",
+      "end_time": "24:05:56"
+    },
+    {
+      "date": "Sunday, June 16",
+      "start_time": "05:22:57",
+      "end_time": "29:22:57"
+    },
+    {
+      "date": "Monday, June 17",
+      "start_time": "05:23:06",
+      "end_time": "29:23:06"
+    },
+    {
+      "date": "Wednesday, June 19",
+      "start_time": "17:23:39",
+      "end_time": "29:23:25"
+    },
+    {
+      "date": "Sunday, June 23",
+      "start_time": "17:04:20",
+      "end_time": "29:24:18"
+    },
+    {
+      "date": "Monday, June 24",
+      "start_time": "05:24:34",
+      "end_time": "25:25:31"
+    },
+    {
+      "date": "Wednesday, June 26",
+      "start_time": "13:05:56",
+      "end_time": "29:25:09"
+    },
+    {
+      "date": "Thursday, June 27",
+      "start_time": "05:25:28",
+      "end_time": "11:37:30"
+    },
+    {
+      "date": "Friday, June 28",
+      "start_time": "10:11:30",
+      "end_time": "29:25:47"
+    },
+    {
+      "date": "Sunday, June 30",
+      "start_time": "12:21:35",
+      "end_time": "29:26:31"
+    }
+  ],
+  "july": [
+    {
+      "date": "Wednesday, July 03",
+      "start_time": "05:27:40",
+      "end_time": "29:27:40"
+    },
+    {
+      "date": "Sunday, 07 July",
+      "start_time": "05:29:23",
+      "end_time": "29:29:23"
+    },
+    {
+      "date": "Thursday, July 11",
+      "start_time": "13:04:59",
+      "end_time": "29:31:17"
+    },
+    {
+      "date": "Friday, July 12",
+      "start_time": "05:31:46",
+      "end_time": "29:31:45"
+    },
+    {
+      "date": "Sunday, July 14",
+      "start_time": "05:32:47",
+      "end_time": "17:28:19"
+    },
+    {
+      "date": "Monday, July 15",
+      "start_time": "19:21:23",
+      "end_time": "24:30:25"
+    },
+    {
+      "date": "Wednesday, July 17",
+      "start_time": "05:34:20",
+      "end_time": "27:13:08"
+    },
+    {
+      "date": "Sunday, July 21",
+      "start_time": "05:36:30",
+      "end_time": "29:36:30"
+    },
+    {
+      "date": "Monday, July 22",
+      "start_time": "05:37:02",
+      "end_time": "22:21:48"
+    },
+    {
+      "date": "Thursday, July 25",
+      "start_time": "16:17:15",
+      "end_time": "29:38:43"
+    },
+    {
+      "date": "Friday, July 26",
+      "start_time": "05:39:17",
+      "end_time": "29:39:17"
+    },
+    {
+      "date": "Sunday, July 28",
+      "start_time": "05:40:24",
+      "end_time": "11:48:18"
+    },
+    {
+      "date": "Wednesday, July 31",
+      "start_time": "05:42:05",
+      "end_time": "29:42:06"
+    }
+  ],
+  "August": [
+    {
+      "date": "Thursday, 01 August",
+      "start_time": "05:42:40",
+      "end_time": "10:24:24"
+    },
+    {
+      "date": "Friday, 09 August",
+      "start_time": "05:47:10",
+      "end_time": "29:47:10"
+    },
+    {
+      "date": "Sunday, August 11",
+      "start_time": "05:48:15",
+      "end_time": "29:48:15"
+    },
+    {
+      "date": "Wednesday, August 21",
+      "start_time": "24:34:23",
+      "end_time": "29:53:39"
+    },
+    {
+      "date": "Thursday, August 22",
+      "start_time": "05:54:10",
+      "end_time": "13:48:37"
+    },
+    {
+      "date": "Friday, August 23",
+      "start_time": "10:41:16",
+      "end_time": "29:54:42"
+    },
+    {
+      "date": "Monday, August 26",
+      "start_time": "15:55:47",
+      "end_time": "26:22:02"
+    },
+    {
+      "date": "Wednesday, August 28",
+      "start_time": "05:57:15",
+      "end_time": "15:53:37"
+    },
+    {
+      "date": "Friday, August 30",
+      "start_time": "17:56:33",
+      "end_time": "29:58:16"
+    }
+  ],
+  "September": [
+    {
+      "date": "Wednesday, September 04",
+      "start_time": "06:00:47",
+      "end_time": "30:00:47"
+    },
+    {
+      "date": "Thursday, September 05",
+      "start_time": "06:01:16",
+      "end_time": "30:01:17"
+    },
+    {
+      "date": "Friday, September 06",
+      "start_time": "06:01:46",
+      "end_time": "15:03:35"
+    },
+    {
+      "date": "Sunday, September 08",
+      "start_time": "06:02:45",
+      "end_time": "15:31:23"
+    },
+    {
+      "date": "Monday, September 09",
+      "start_time": "18:04:44",
+      "end_time": "30:03:15"
+    },
+    {
+      "date": "Friday, September 13",
+      "start_time": "21:36:19",
+      "end_time": "30:05:11"
+    },
+    {
+      "date": "Sunday, September 15",
+      "start_time": "06:06:11",
+      "end_time": "18:50:02"
+    },
+    {
+      "date": "Wednesday, September 18",
+      "start_time": "11:01:30",
+      "end_time": "30:07:38"
+    },
+    {
+      "date": "Thursday, September 19",
+      "start_time": "06:08:08",
+      "end_time": "30:08:09"
+    },
+    {
+      "date": "Friday, September 20",
+      "start_time": "06:08:38",
+      "end_time": "21:17:36"
+    },
+    {
+      "date": "Sunday, September 22",
+      "start_time": "23:02:36",
+      "end_time": "30:09:37"
+    },
+    {
+      "date": "Monday, September 23",
+      "start_time": "06:10:07",
+      "end_time": "30:10:07"
+    },
+    {
+      "date": "Friday, September 27",
+      "start_time": "06:12:09",
+      "end_time": "25:21:31"
+    }
+  ],
+  "October": [
+    {
+      "date": "October 4, 2024, Friday",
+      "muhurat_timing": "From 6:47 AM to 10:08 AM"
+    },
+    {
+      "date": "October 7, 2024, Monday",
+      "muhurat_timing": "From 2:18 PM to 6:53 PM"
+    },
+    {
+      "date": "October 17, 2024, Thursday",
+      "muhurat_timing": "From 7:18 AM to 11:35 AM"
+    },
+    {
+      "date": "October 21, 2024, Monday",
+      "muhurat_timing": "From 9:01 PM to 3:05 PM"
+    },
+    {
+      "date": "October 23, 2024, Wednesday",
+      "muhurat_timing": "From 2:58 PM to 4:25 PM"
+    },
+    {
+      "date": "October 30, 2024, Wednesday",
+      "muhurat_timing": "From 8:25 AM to 2:30 PM"
+    }
+  ],
+  "November": [
+    {
+      "date": "Friday, 01 November",
+      "start_time": "18:18:58",
+      "end_time": "27:31:21"
+    },
+    {
+      "date": "Sunday, 03 November",
+      "start_time": "06:34:53",
+      "end_time": "30:34:52"
+    },
+    {
+      "date": "Thursday, 07 November",
+      "start_time": "11:47:39",
+      "end_time": "30:37:53"
+    },
+    {
+      "date": "Friday, 08 November",
+      "start_time": "06:38:38",
+      "end_time": "30:38:37"
+    },
+    {
+      "date": "Wednesday, November 13",
+      "start_time": "06:42:30",
+      "end_time": "30:42:30"
+    },
+    {
+      "date": "Sunday, November 17",
+      "start_time": "06:45:41",
+      "end_time": "30:45:40"
+    },
+    {
+      "date": "Monday, November 18",
+      "start_time": "06:46:28",
+      "end_time": "15:49:04"
+    },
+    {
+      "date": "Wednesday, November 20",
+      "start_time": "14:50:47",
+      "end_time": "30:48:04"
+    },
+    {
+      "date": "Thursday, November 21",
+      "start_time": "06:48:52",
+      "end_time": "15:36:12"
+    },
+    {
+      "date": "Monday, November 25",
+      "start_time": "06:52:02",
+      "end_time": "30:52:02"
+    },
+    {
+      "date": "Wednesday, November 27",
+      "start_time": "06:53:38",
+      "end_time": "30:53:37"
+    },
+    {
+      "date": "Thursday, November 28",
+      "start_time": "06:54:25",
+      "end_time": "32:42:02"
+    }
+  ],
+  "December": [
+    {
+      "date": "Thursday, 05 December",
+      "start_time": "12:51:44",
+      "end_time": "30:59:46"
+    },
+    {
+      "date": "Friday, 06 December",
+      "start_time": "07:00:29",
+      "end_time": "17:19:02"
+    },
+    {
+      "date": "Sunday, 08 December",
+      "start_time": "07:01:55",
+      "end_time": "16:03:47"
+    },
+    {
+      "date": "Wednesday, December 11",
+      "start_time": "07:03:58",
+      "end_time": "31:03:58"
+    },
+    {
+      "date": "Sunday, December 15",
+      "start_time": "07:06:32",
+      "end_time": "26:20:36"
+    },
+    {
+      "date": "Sunday, December 22",
+      "start_time": "07:10:22",
+      "end_time": "31:10:22"
+    },
+    {
+      "date": "Monday, December 23",
+      "start_time": "07:10:49",
+      "end_time": "17:10:38"
+    },
+    {
+      "date": "Wednesday, December 25",
+      "start_time": "07:11:43",
+      "end_time": "31:11:43"
+    },
+    {
+      "date": "Thursday, December 26",
+      "start_time": "07:12:07",
+      "end_time": "18:10:07"
+    },
+    {
+      "date": "Friday, December 27",
+      "start_time": "20:29:05",
+      "end_time": "31:12:29"
+    }
+  ]
+}

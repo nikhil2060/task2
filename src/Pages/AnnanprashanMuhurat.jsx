@@ -2,12 +2,11 @@
 import styled from "styled-components";
 import List from "../Components/List";
 import ListItem from "../Components/ListItem";
+import Table from "../Components/AnnanprahsanTable";
 
-import annanprashan from "../Data/Annanprashan.json";
+import annanprashan from "../Data/AnnanprashanLists.json";
 
 const ceremonyList = annanprashan.ceremonyData;
-
-console.log(ceremonyList);
 
 function AnnanprashanMuhurat() {
   return (
@@ -74,7 +73,7 @@ function AnnanprashanMuhurat() {
         <StyledContent>
           <h2 className="font-bold">The Ceremony:</h2>
           <List>
-            {ceremonyList.map((item, index) => {
+            {annanprashan.ceremonyData.map((item, index) => {
               return (
                 <ListItem
                   heading={item.heading}
@@ -109,6 +108,102 @@ function AnnanprashanMuhurat() {
             partake in this important milestone.
           </p>
         </StyledContent>
+
+        <Table month={"january"} />
+        <Table month={"february"} />
+        <Table month={"March"} />
+        <Table month={"April"} />
+        <Table month={"May"} />
+        <Table month={"June"} />
+        <Table month={"july"} />
+        <Table month={"August"} />
+        <Table month={"September"} />
+        <Table month={"October"} />
+        <Table month={"November"} />
+        <Table month={"December"} />
+
+        <StyledContent>
+          <h2 className="font-bold">
+            Important observance to follow at Annaprashan Sanskar in 2024 :
+          </h2>
+
+          <p>
+            The Annaprashan Sanskar in 2024, also known as the Rice Feeding
+            Ceremony, is a significant and joyous occasion in Hindu culture as
+            it marks a babys transition from a diet of solely milk to solid
+            food. While the core rituals remain consistent, here are some
+            important observances and guidelines to follow during the
+            Annaprashan Sanskar in 2024:
+          </p>
+
+          <List>
+            {annanprashan.precautions.map((item, index) => {
+              return (
+                <ListItem
+                  heading={item.heading}
+                  content={item.content}
+                  key={index}
+                />
+              );
+            })}
+          </List>
+        </StyledContent>
+
+        <h3 className="font-bold">
+          To Chat with astrologer about Annaprashan muhurat :{` `}
+          <span className="text-red-500 italic">Visit Here</span>
+        </h3>
+
+        <StyledContent>
+          <h2 className="font-bold">Food to be considered at the ceremony :</h2>
+
+          <p>
+            During the Annaprashan Sanskar ceremony in 2024, its customary to
+            offer the baby a variety of vegetarian foods symbolizing blessings,
+            health, and prosperity. Key dishes to consider include:
+          </p>
+
+          <List>
+            {annanprashan.food.map((item, index) => {
+              return (
+                <ListItem
+                  heading={item.heading}
+                  content={item.content}
+                  key={index}
+                />
+              );
+            })}
+          </List>
+        </StyledContent>
+
+        <StyledContent>
+          <h2 className="font-bold">Remedies for child better future :</h2>
+
+          <p>
+            {`Lal Kitab, a unique branch of Vedic astrology, offers practical and
+            effective remedies to improve a child's future and overall
+            well-being. These remedies are simple yet powerful and aim to
+            mitigate unfavorable planetary influences. Here are some Lal Kitab
+            remedies for a child's better future:`}
+          </p>
+
+          <List>
+            {annanprashan.remedies.map((item, index) => {
+              return (
+                <ListItem
+                  heading={item.heading}
+                  content={item.content}
+                  key={index}
+                />
+              );
+            })}
+          </List>
+        </StyledContent>
+
+        <h3 className="font-bold">
+          To Talk to Astrologer:{" "}
+          <span className="text-red-500 italic">Visit Here</span>
+        </h3>
       </div>
     </>
   );

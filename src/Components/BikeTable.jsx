@@ -1,27 +1,33 @@
 /* eslint-disable react/prop-types */
 import React from "react";
 import styled from "styled-components";
-import yogaData from "../Data/yogaTableData.json";
+import TableData from "../Data/BikeTables.json";
 
-const data = yogaData.Table;
+const data = TableData;
+console.log(data);
 
-function Table() {
+function Table({ month }) {
+  const monthData = data[month];
+
+  console.log(monthData);
+
   return (
-    <StyledTable>
-      <TableHeader />
+    <>
+      <StyledHeading>{`Car/ bike buying muhurat in ${month} 2024 :`}</StyledHeading>
+      <StyledTable>
+        <TableHeader />
 
-      {data.map((item, index) => {
-        return (
-          <TableRow
-            name={item.Name}
-            description={item.Description}
-            result={item.Result}
-            quality={item.Quality}
-            key={index}
-          />
-        );
-      })}
-    </StyledTable>
+        {monthData.map((item, index) => {
+          return (
+            <TableRow
+              date={item.date}
+              startTiming={item.time_period}
+              key={index}
+            />
+          );
+        })}
+      </StyledTable>
+    </>
   );
 }
 
@@ -31,43 +37,63 @@ function TableHeader() {
   return (
     <StyledTableHeader>
       <div>
-        <span>Name</span>
+        <span>Date</span>
       </div>
       <div>
-        <span>Description</span>
-      </div>
-      <div>
-        <span>Result</span>
-      </div>
-      <div>
-        <span>Quality</span>
+        <span>Time period</span>
       </div>
     </StyledTableHeader>
   );
 }
 
-function TableRow({ name, description, result, quality }) {
+function TableRow({ date, startTiming }) {
   return (
     <StyleTableRow>
       <div>
-        <span>{name}</span>
+        <span>{date}</span>
       </div>
       <div>
-        <span>{description}</span>
-      </div>
-      <div>
-        <span>{result}</span>
-      </div>
-      <div>
-        <span>{quality}</span>
+        <span>{startTiming}</span>
       </div>
     </StyleTableRow>
   );
 }
 
+const StyledHeading = styled.h1`
+  font-size: 1rem;
+  font-weight: bold;
+
+  @media (max-width: 1024px) {
+    font-size: 0.9rem;
+  }
+
+  @media (max-width: 768px) {
+    font-size: 0.7rem;
+  }
+
+  @media (max-width: 660px) {
+    font-size: 0.7rem;
+  }
+  @media (max-width: 600px) {
+    font-size: 0.6rem;
+  }
+
+  @media (max-width: 480px) {
+    font-size: 0.5rem;
+  }
+
+  @media (max-width: 375px) {
+    font-size: 0.4rem;
+  }
+
+  @media (max-width: 320px) {
+    font-size: 0.4rem;
+  }
+`;
+
 const CommonRow = styled.div`
   display: grid;
-  grid-template-columns: 15% 25% 50% 10%;
+  grid-template-columns: 1fr 1fr;
   grid-template-rows: auto;
   /* column-gap: 2.4rem; */
   align-items: center;
@@ -93,20 +119,18 @@ const StyledTableHeader = styled(CommonRow)`
   }
 
   div span {
-    padding: 1.6rem 2.4rem;
+    padding: 1rem 1rem;
     display: inline;
     text-align: center;
   }
 
   @media (max-width: 1024px) {
-    grid-template-columns: 15% 25% 50% 10%;
     div span {
       padding: 1rem 2rem;
     }
   }
 
   @media (max-width: 768px) {
-    grid-template-columns: 15% 25% 50% 10%;
     font-size: 12px;
     div span {
       padding: 1rem 1.8rem;
@@ -115,7 +139,6 @@ const StyledTableHeader = styled(CommonRow)`
 
   @media (max-width: 600px) {
     font-size: 10px;
-    grid-template-columns: 15% 25% 50% 10%;
     div span {
       padding: 0.7rem 1rem;
     }
@@ -123,7 +146,6 @@ const StyledTableHeader = styled(CommonRow)`
 
   @media (max-width: 425px) {
     font-size: 8px;
-    grid-template-columns: 20% 20% 48% 12%;
     div span {
       padding: 0.4rem 0.3rem;
     }
@@ -131,7 +153,6 @@ const StyledTableHeader = styled(CommonRow)`
 
   @media (max-width: 375px) {
     font-size: 8px;
-    grid-template-columns: 20% 20% 48% 12%;
     div span {
       padding: 0.4rem 0.3rem;
     }
@@ -139,7 +160,6 @@ const StyledTableHeader = styled(CommonRow)`
 
   @media (max-width: 320px) {
     font-size: 8px;
-    grid-template-columns: 20% 20% 45% 15%;
     div span {
       padding: 0.4rem 0.3rem;
     }
@@ -160,19 +180,17 @@ const StyleTableRow = styled(CommonRow)`
   }
 
   div span {
-    padding: 1.6rem 2.4rem;
+    padding: 0.7rem 0.7rem;
     text-align: center;
   }
 
   @media (max-width: 1024px) {
-    grid-template-columns: 15% 25% 50% 10%;
     div span {
       padding: 1rem 2rem;
     }
   }
 
   @media (max-width: 768px) {
-    grid-template-columns: 15% 25% 50% 10%;
     font-size: 12px;
     div span {
       padding: 1rem 1.8rem;
@@ -181,7 +199,6 @@ const StyleTableRow = styled(CommonRow)`
 
   @media (max-width: 600px) {
     font-size: 10px;
-    grid-template-columns: 15% 25% 50% 10%;
     div span {
       padding: 0.7rem 1rem;
     }
@@ -189,7 +206,6 @@ const StyleTableRow = styled(CommonRow)`
 
   @media (max-width: 425px) {
     font-size: 8px;
-    grid-template-columns: 20% 20% 48% 12%;
     div span {
       padding: 0.4rem 0.3rem;
     }
@@ -197,7 +213,6 @@ const StyleTableRow = styled(CommonRow)`
 
   @media (max-width: 375px) {
     font-size: 8px;
-    grid-template-columns: 20% 20% 48% 12%;
     div span {
       padding: 0.4rem 0.3rem;
     }
@@ -205,7 +220,6 @@ const StyleTableRow = styled(CommonRow)`
 
   @media (max-width: 320px) {
     font-size: 8px;
-    grid-template-columns: 20% 20% 45% 15%;
     div span {
       padding: 0.4rem 0.3rem;
     }
@@ -213,8 +227,11 @@ const StyleTableRow = styled(CommonRow)`
 `;
 
 const StyledTable = styled.div`
-  border: 1px solid #333;
+  border-top: 1px solid #333;
+  border-left: 1px solid #333;
+  border-right: 1px solid #333;
   font-size: 16px; /* Default font size */
+  width: 100%;
 
   @media (max-width: 1024px) {
     font-size: 14px; /* Adjust the font size for screens with a width of 1024px or smaller */

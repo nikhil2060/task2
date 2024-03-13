@@ -1,0 +1,98 @@
+{
+  "January": [
+    {
+      "date": "January 3, 2024",
+      "time_period": "21:18 to January 7, 2024 09:53"
+    }
+  ],
+  "February": [
+    {
+      "date": "February 1, 2024",
+      "time_period": "07:10 to February 2, 2024 02:03"
+    }
+  ],
+  "March": [
+    {
+      "date": "March 3, 2024",
+      "time_period": "07:10 to March 2, 2024 02:03"
+    }
+  ],
+  "April": [
+    {
+      "date": "April 12, 2024",
+      "time_period": "01:11 to April 13, 2024 05:58"
+    }
+  ],
+  "May": [
+    {
+      "date": "May 23, 2024",
+      "time_period": "09:15 to May 24, 2024 05:26"
+    },
+    {
+      "date": "May 31, 2024",
+      "time_period": "05:24 to May 31, 2024 06:14"
+    }
+  ],
+  "June": [
+    {
+      "date": "June 9, 2024",
+      "time_period": "05:23 to June 9, 2024 03:44"
+    },
+    {
+      "date": "June 19, 2024",
+      "time_period": "05:23 to June 20, 2024 05:24"
+    },
+    {
+      "date": "June 27, 2024",
+      "time_period": "05:26 to June 27, 2024 11:36"
+    }
+  ],
+  "July": [
+    {
+      "date": "July 3, 2024",
+      "time_period": "07:47 to July 10, 2024 05:48"
+    },
+    {
+      "date": "July 26, 2024",
+      "time_period": "02:39 to July 30, 2024 11:37"
+    }
+  ],
+  "August": [
+    {
+      "date": "August 9, 2024",
+      "time_period": "05:47 to August 10, 2024 05:48"
+    },
+    {
+      "date": "August 29, 2024",
+      "time_period": "04:39 to August 30, 2024 01:37"
+    }
+  ],
+  "September": [
+    {
+      "date": "September 6, 2024",
+      "time_period": "06:02 to September 6, 2024 03:01"
+    }
+  ],
+  "October": [
+    {
+      "date": "October 24, 2024",
+      "time_period": "06:28 to October 25, 2024 01:58"
+    }
+  ],
+  "November": [
+    {
+      "date": "November 20, 2024",
+      "time_period": "06:48 to November 21, 2024 06:49"
+    }
+  ],
+  "December": [
+    {
+      "date": "December 18, 2024",
+      "time_period": "07:08 to December 18, 2024 10:06"
+    },
+    {
+      "date": "December 25, 2024",
+      "time_period": "07:12 to December 26, 2024 07:12"
+    }
+  ]
+}

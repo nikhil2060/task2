@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "date": "Friday, 26 January",
+      "start_time": "08:17:31",
+      "end_time": "10:29:33"
+    },
+    {
+      "date": "Thursday, 22 February",
+      "start_time": "14:18:35",
+      "end_time": "16:44:13"
+    },
+    {
+      "date": "Wednesday, 20 March",
+      "start_time": "20:10:58",
+      "end_time": "22:39:07"
+    },
+    {
+      "date": "Tuesday, 16 April",
+      "start_time": "03:06:17",
+      "end_time": "05:16:33"
+    },
+    {
+      "date": "Tuesday, 14 May",
+      "start_time": "11:24:25",
+      "end_time": "13:05:42"
+    },
+    {
+      "date": "Monday, 10 June",
+      "start_time": "20:21:21",
+      "end_time": "21:40:32"
+    },
+    {
+      "date": "Monday, 08 July",
+      "start_time": "04:48:44",
+      "end_time": "06:03:36"
+    },
+    {
+      "date": "Sunday, 04 August",
+      "start_time": "11:59:50",
+      "end_time": "13:27:09"
+    },
+    {
+      "date": "Saturday, 31 August",
+      "start_time": "17:56:33",
+      "end_time": "19:40:35"
+    },
+    {
+      "date": "Friday, 27 September",
+      "start_time": "23:34:50",
+      "end_time": "01:21:31"
+    },
+    {
+      "date": "Friday, 25 October",
+      "start_time": "06:16:28",
+      "end_time": "07:40:55"
+    },
+    {
+      "date": "Thursday, 21 November",
+      "start_time": "14:50:47",
+      "end_time": "15:36:12"
+    },
+    {
+      "date": "Wednesday, 18 December",
+      "start_time": "00:44:44",
+      "end_time": "02:59:05"
+    }
+  ]
+}
